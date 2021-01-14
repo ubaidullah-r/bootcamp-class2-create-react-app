@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
       Hello World!(here we go again..its rewind time)
-      <pre>checking second time</pre>
+      <pre>checking second time </pre>
     </div>
   );
 }
